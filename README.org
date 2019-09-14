@@ -39,4 +39,4 @@ situación y volver a Codeblocks que aunque no me gusta es más cómodo
 al momento de compilar y ejecutar.
 
 * Footnotes
-/Readme hecho con EMACS/
+/Hecho con EMACS/
