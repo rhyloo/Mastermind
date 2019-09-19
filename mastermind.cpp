@@ -9,7 +9,7 @@ const int MAX = 8;
 
 
 // Tipos
-typedef array<int, MAX> tSecuencia;
+typedef array<char, MAX> tSecuencia;
 
 // Funciones
 void menu(int dificultad, int &MAX_1, int &puntuacion_game){
@@ -46,7 +46,7 @@ void start(){
 void aleatorio(tSecuencia &secuencia_secreta, int MAX_1){
 
     for(int i = 0; i < MAX_1; i++){
-            secuencia_secreta[i] = generarAleatorio(0,9);
+            secuencia_secreta[i] = generarAleatorio(0,9) + '0';
         }
 
 }

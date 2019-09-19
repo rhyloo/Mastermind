@@ -133,14 +133,14 @@ cout << "By " << nombre << endl;
 cout << endl;
 
 cambiarColor(NEGRO,OSCURO,BLANCO,CLARO);// Letra negrita, amarillo y fondo gris
-cout << "\nBienvenido a MASTERMIND, el juego que te hara sufrir.\nEl MasterMind es un juego de logica. En este juego un jugador (en nuestro caso el ordenador) decide";
+cout << "\n\t\t\t\t\t\t\tBienvenido a MASTERMIND, el juego que te hara sufrir."          " \nEl MasterMind es un juego de logica. En este juego un jugador (en nuestro caso el ordenador) decide";
     cout << " una secuencia secreta (solo conocida por el) y el otro jugador tiene que intentar adivinarla. Cuando el";
     cout << " que intenta adivinar dice una secuencia propuesta, el jugador que decidio la secuencia secreta le da";
     cout << "ciertas pistas. En concreto le dice, cuantos valores de su secuencia son correctos (se corresponden en";
     cout << " valor y posicion con la secreta) y cuantos no estan en su posicion. Por ejemplo, pensemos que la";
     cout << " secuencia secreta es 1 2 3 4 y el otro jugador dice 1 3 5 1. En esa situacion se indicara que tiene";
     cout << " uno correcto (el primer 1) y dos colocados mal (el 3 y el ultimo 1). El jugador va diciendo secuencias y";
-    cout << " recibiendo pistas hasta que acierte (en el juego inicial tiene una cantidad limitada de intentos).\n\nLas reglas son sencillas: ";
+    cout << " recibiendo pistas hasta que acierte (en el juego inicial tiene una cantidad limitada de intentos)."                               "\n\nLas reglas son sencillas: ";
     cout << "\n 1) El verde indica que el numero es correcto \n 2) El amarillo indica que el numero se encuentra en la secuencia \n 3) El rojo indica que el numero es incorrecto." << endl;
  restaurarColores();
 }
