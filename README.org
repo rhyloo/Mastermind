@@ -41,7 +41,7 @@ al momento de compilar y ejecutar.
 Verano, 2019
 
 *** Actualización
-I have changed my editor again, I guess it's part of this work. I'm currently using Visual Studio Code, I 've started yesterday so I dont know what happen tomorrow for this setup. Regarding Emacs I want to say that It was an incredible experience, learning keyboard shortcuts and doing some experiments with the environment but my goal last year was to use it as "notebook" for the university but I reject the idea a few days later because of the complex way I had to transcribe the notes.fdsdsfds
+I have changed my editor again, I guess it's part of this work. I'm currently using Visual Studio Code, I 've started yesterday so I dont know what happen tomorrow for this setup. Regarding Emacs I want to say that It was an incredible experience, learning keyboard shortcuts and doing some experiments with the environment but my goal last year was to use it as "notebook" for the university but I reject the idea a few days later because of the complex way I had to transcribe the notes.
 
 Winter season,2020
 
